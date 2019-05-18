@@ -28,4 +28,7 @@ Untuk soal terakhir saya menggunakan array_multisort untuk menentukan dari besar
 
 #soal nomor 6
 ![boot1](https://user-images.githubusercontent.com/25763905/57969840-69e93780-79a4-11e9-8f50-958305f5b697.PNG)
-- gambar pertama sebelum menambahkan user
+- gambar pertama sebelum menambahkan user.
+
+![boot2](https://user-images.githubusercontent.com/25763905/57969220-e9740800-799e-11e9-8f86-d93acf2a79da.PNG)
+- gambar kedua setelah saya menambahkan user.
