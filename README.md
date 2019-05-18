@@ -33,5 +33,5 @@ dengan metode looping dan menggurutkan X.
 ![boot2](https://user-images.githubusercontent.com/25763905/57969220-e9740800-799e-11e9-8f86-d93acf2a79da.PNG)
 - Gambar kedua setelah saya menambahkan user.
 ![BOOT3](https://user-images.githubusercontent.com/25763905/57969229-17f1e300-799f-11e9-9545-510ac8234d05.PNG)
-- Gambar ketika setelah saya menambahkan user dan skill.
+- Gambar ketiga setelah saya menambahkan user dan skill.
 - Saya menggunakan XAMPP sebagai localhost.
