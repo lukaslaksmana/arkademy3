@@ -13,7 +13,7 @@ dengan json_encode maka function akan mereturn dalam bentuk json
 terakhir print untuk menampilkan result dari function tadi.
 
 #soal nomor 2
-saya hanya menggunakan PHP dengan menggunakan generateRandomString dan result secara acak
+- Saya hanya menggunakan PHP dengan menggunakan generateRandomString dan result secara acak
 
 #soal nomor 3
 - Saya menggunakan bahasa PHP Untuk Menyelesaikan soal ini
