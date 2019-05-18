@@ -3,7 +3,7 @@ kegunaan JSON pada REST API
 - Mempercepat request karena content length lebih singkat
 - JSON mudah sekali dipetakan pada struktur data yang digunakan oleh sebagian besar bahasa pemrograman terkait data berupa number, string, boolean, null, array dan associative array.
 
-Saya menggunakan xampp dan command prompt untuk menjalankan script.
+Saya menggunakan XAMPP dan Command Prompt untuk menjalankan script.
 Sublime Text Untuk Membuat script nya.
 
 
@@ -31,4 +31,7 @@ Untuk soal terakhir saya menggunakan array_multisort untuk menentukan dari besar
 - gambar pertama sebelum menambahkan user.
 
 ![boot2](https://user-images.githubusercontent.com/25763905/57969220-e9740800-799e-11e9-8f86-d93acf2a79da.PNG)
-- gambar kedua setelah saya menambahkan user.
+- Gambar kedua setelah saya menambahkan user.
+![BOOT3](https://user-images.githubusercontent.com/25763905/57969229-17f1e300-799f-11e9-9545-510ac8234d05.PNG)
+- Gambar ketika setelah saya menambahkan user dan skill.
+- Saya menggunakan XAMPP sebagai localhost.
